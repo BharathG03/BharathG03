@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 I am a computer Science and Statistics Student at The University of North Carolina at Chapel Hill.
 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://www.linkedin.com/in/bharadwaj-gadiyaram/">
