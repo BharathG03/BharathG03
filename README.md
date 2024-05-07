@@ -8,7 +8,7 @@ I am a computer Science and Statistics Student at The University of North Caroli
   <a href="https://www.linkedin.com/in/bharadwaj-gadiyaram/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="5%" width="5%" style="padding:10%"/></a>
   <a href="mailto: bharat.gadiyaram@gmail.com?subject=[GitHub]"><img src="https://bharathg03.github.io/Images/Email.png" height="5%" width="5%"></a>
-  <a href="https://bharathg03.github.io/"><img src="b/Images/favicon.ico" height="5%" width="5%"></a>
+  <a href="https://bharathg03.github.io/"><img src="https://bharathg03.github.io/Images/favicon.ico" height="5%" width="5%"></a>
 </div>
 
 <!--
